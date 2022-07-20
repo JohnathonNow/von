@@ -24,3 +24,8 @@ for i in range(20):
 ```
 
 
+## Planned flags
+
+- `-k, --keep` - outputs the inputed von file followed by --\n followed by the output of the program  
+- `-i, --inplace` - outputs the inputed von file with the input section replaced with the output of the program  
+- `-s, --save` - save the run von file to ~/.von
