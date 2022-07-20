@@ -1,0 +1,11 @@
+python3
+--
+import sys
+
+for i in range(10):
+    print(i)
+for i in sys.stdin:
+    print(i.strip() + "BOB")
+--
+input for the program 1
+input for the program 2
