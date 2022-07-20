@@ -1,0 +1,9 @@
+interpreter
+--
+source code to be interpreted 1
+source code to be interpreted 2
+source code to be interpreted 3
+source code to be interpreted 4
+--
+input for the program 1
+input for the program 2
